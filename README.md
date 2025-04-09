@@ -89,15 +89,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MphoItumeleng/MphoItumeleng/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MphoItumeleng/MphoItumeleng/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MphoItumeleng/MphoItumeleng/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/MphoItumeleng/MphoItumeleng/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img height="200" src="https://images.ctfassets.net/wfutmusr1t3h/6z2nwPNKt4d23LDLfBNWES/abf9edff7d522a9143073bba12bc42f7/DevOps_Social_Main_Component__3_.png?w=1280&q=75"  />
